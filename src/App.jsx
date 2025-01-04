@@ -18,6 +18,10 @@ function App() {
             <section className={'bg-green-400 h-1/3 w-1/2'}>
                 Viewport Units
             </section>
+
+            <div>
+                <button className={'px-4 py-1 bg-blue-400 rounded'}>Button</button>
+            </div>
         </main>
     )
 }
